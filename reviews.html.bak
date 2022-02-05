@@ -15,8 +15,8 @@
 		<h1>YouTube Channel I really like for web develoment is Traversy Media</h1>
 		<p>Here is the owner of Traversy Media Channel</p>
 		<h2>Brad Traversy</h2>
-		<img src="images/traversy.jpg" alt="Brad Traversy" width="100" />
-		<video width="100" controls>
+		<img src="images/traversy.jpg" alt="Brad Traversy" width="400" />
+		<video width="600" controls>
 			<source src="videos/stop_compairing.mp4" type="video/mp4" />
 		</video>
 		<p>
@@ -27,7 +27,7 @@
 		</p>
 		<h2>THE SOCIAL NETWORK</h2>
 		<img src="images/The-Social-Network.jpg"
-			width="100"
+			width="600"
 			alt="The Social Network" />
 		<p>
 			The Social Network is a 2010 American biographical drama film directed by
@@ -37,7 +37,7 @@
 			Eisenberg as founder Mark Zuckerberg
 		</p>
 		<h2>PUBG</h2>
-		<img src="images/pubg.jpg" width="100" alt="pubg" />
+		<img src="images/pubg.jpg" width="600" alt="pubg" />
 		<p>
 			PUBG is a player versus player shooter game in which up to one hundred
 			players fight in a battle royale, a type of large-scale last man standing
